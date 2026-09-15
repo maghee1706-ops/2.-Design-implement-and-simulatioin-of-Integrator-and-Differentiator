@@ -1,4 +1,4 @@
-# 2.-Design-implement-and-simulatioin-of-Integrator-and-Differentiator
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/432540e9-1ec5-497d-b5b7-06ca411bcffb" /># 2.-Design-implement-and-simulatioin-of-Integrator-and-Differentiator
 **AIM:**
 To design , implement and simulate  an integrator and differentiator circuits
 
@@ -63,26 +63,39 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c88ccdc3-2252-4a00-b0da-87f36db1924d" />
 
 
   **MODEL GRAPH:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/d3e9a7be-ac47-41c1-8ba7-e84c12625ace" />
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/cff1703d-7f81-4b62-a512-2d6433c8b422" />
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/dc167b10-54a0-4f43-a037-9a18cdceb598" />
+
 
 
   **TABULATION:**
- 
+ <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/1c49250e-9170-4e03-974e-fedc46ea48a5" />
 
-**MODEL CALCULATION:**
+
+
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/339efd0c-3347-417c-93a4-cf705f5934a5" />
 
   **MODEL GRAPH:**
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a865a59c-1268-4d3c-b2bb-f6b71bd4b308" />
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/5d51f67d-2aa8-48a9-b5f7-3b92c1fd79cd" />
 
 
   **TABULATION:**
 
- 
+ <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/a63abab9-a682-49be-9f99-7e05756f0852" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.

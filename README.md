@@ -1,4 +1,4 @@
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/432540e9-1ec5-497d-b5b7-06ca411bcffb" /># 2.-Design-implement-and-simulatioin-of-Integrator-and-Differentiator
+# 2.-Design-implement-and-simulatioin-of-Integrator-and-Differentiator
 **AIM:**
 To design , implement and simulate  an integrator and differentiator circuits
 
